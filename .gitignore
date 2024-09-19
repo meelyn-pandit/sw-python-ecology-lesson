@@ -2,3 +2,4 @@
 .mp4
 data/*
 venv_dir/bin/activate
+venv_dir/*
